@@ -1,0 +1,8 @@
+[package]
+name = "convolution"
+version = "0.1.0"
+authors = ["Jason Cardinal <jcardinal@dealersocket.com>"]
+
+[dependencies]
+num_rust = {git = "https://github.com/woowe/num_rust.git"}
+image = "*"
